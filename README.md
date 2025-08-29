@@ -1,5 +1,5 @@
 <h1 align="center">Safa Shafqaat</h1>
-<h3 align="center">Artificial Intelligence Graduate | Machine Learning, Deep Learning & Computer Vision Enthusiast</h3>
+<h3 align="center">Artificial Intelligence | Machine Learning, Deep Learning & Computer Vision Enthusiast</h3>
 
 ---
 
